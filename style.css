@@ -52,7 +52,7 @@ i {
 /*central*/
 
 .baner {
-	background-image: url(images/baner.jpg);
+	background-image: url(../images/baner.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 100px 100px;
